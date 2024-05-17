@@ -1,0 +1,12 @@
+642659269326a3885276b8027d7aebc4 *DESCRIPTION
+7201ac850e120b6eb79b0085a72b2517 *NAMESPACE
+3f28d027c43a591707858b023b42b2b3 *R/Euclid.R
+da08bbdf083ecf1ed8c16b8d86923705 *R/MajMinOptim.R
+c5385221cf8c2ed34c2a584141d5ca26 *R/clusters_MajKm.R
+dcbac61e42b347ae96d286f0bbb53bc0 *R/clusters_km.R
+5b9a4f25d4a18d64c1b4e06042c59cd8 *R/kmeans.R
+18e80cf26d5d5a652844609bff5d9dec *man/Euclid.Rd
+e4ef7c98677511953212fc7b3ae485aa *man/MajMinOptim.Rd
+a5aecfb0441c890a4c4f973e21818c20 *man/clusters_MajKm.Rd
+cf8929e3625ab15974726b7425588609 *man/clusters_km.Rd
+0f10175e144f1b0d8b5ff62caea70887 *man/kmeans.Rd
